@@ -1,0 +1,6 @@
+{"image1": {"hash":"06242021-1537", "address": "image1.json"},
+"image2": {"hash":"06242021-1537", "address": "image2.json"},
+"image3": {"hash":"06242021-1537", "address": "image3.json"},
+"image4": {"hash":"06242021-1537", "address": "image4.json"},
+"delay":[120000,120000,120000,120000]
+}
